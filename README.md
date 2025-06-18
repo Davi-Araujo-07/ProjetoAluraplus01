@@ -14,7 +14,7 @@ O Alura Plus é uma página de destino (landing page) feita com HTML e CSS, com 
 
 
 
-🛠️ Tecnologias utilizadas
+Tecnologias utilizadas
 HTML5
 
 CSS3
@@ -46,5 +46,5 @@ Acesse a pasta do projeto:
 cd alura-plus
 Abra o arquivo index.html em seu navegador.
 
-👨‍💻 Autor
+ Autor
 Desenvolvido por Davi Ferreira De Araujo.
